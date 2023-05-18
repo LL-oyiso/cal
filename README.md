@@ -1,0 +1,2 @@
+# cal
+Simple investment calculator 
